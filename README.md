@@ -17,3 +17,7 @@
 - [maven：中央仓库与企业私服](/docs/maven/)
 
 #### jenkins系列
+
+#### 参考资料
+
+- [廖雪峰的官方网站：maven基础](https://www.liaoxuefeng.com/wiki/1252599548343744/1309301146648610)
