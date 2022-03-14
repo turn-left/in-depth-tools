@@ -21,3 +21,4 @@
 #### 参考资料
 
 - [廖雪峰的官方网站：maven基础](https://www.liaoxuefeng.com/wiki/1252599548343744/1309301146648610)
+- [maven官方指南](https://maven.apache.org/guides/getting-started/maven-in-five-minutes.html)
