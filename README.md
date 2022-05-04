@@ -22,6 +22,8 @@
 
 #### jenkins系列
 
+- [基于Jenkins的持续集成方案](docs/jenkins/基于jenkins的持续集成方案.md)
+
 #### 参考资料
 
 - [廖雪峰的官方网站：maven基础](https://www.liaoxuefeng.com/wiki/1252599548343744/1309301146648610)
