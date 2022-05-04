@@ -59,3 +59,16 @@ firewall-cmd --permanent --list-ports
 7.重启防火墙（修改配置后）
 
 firewall-cmd --reload
+
+
+
+### yum相关
+
+配置国内yum源
+
+```bash
+# 备份原yum配置
+cd /etc/yum.repos.d/ && mkdir repo_bak
+mv *.repo repo_bak/
+```
+
