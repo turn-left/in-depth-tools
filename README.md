@@ -16,6 +16,10 @@
 - [maven：生命周期与插件绑定](/docs/maven/)
 - [maven：中央仓库与企业私服](/docs/maven/)
 
+#### linux系列
+
+- [linux常用命令](/docs/linux/linux常用命令.md)
+
 #### jenkins系列
 
 #### 参考资料
