@@ -26,6 +26,7 @@
 
 #### kubernetes系列
 
+- [搭建virtualbox虚拟机集群](docs/kubernetes/搭建virtualbox虚拟机集群.md)
 - [K8S安装过程笔记](docs/kubernetes/K8S安装过程笔记.md)
 
 #### 参考资料
