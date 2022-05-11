@@ -7,7 +7,8 @@
 - kubernetes
 - jenkins
 - linux
-- git
+- slurm
+- hpc(高性能计算)
 
 #### maven系列
 
@@ -19,6 +20,7 @@
 #### linux系列
 
 - [linux常用命令](/docs/linux/linux常用命令.md)
+- [ubuntu 20.04 安装webhook](/docs/linux/ubuntu20.04安装webhook.md)
 
 #### jenkins系列
 
