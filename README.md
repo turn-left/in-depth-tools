@@ -20,6 +20,7 @@
 #### linux系列
 
 - [linux常用命令](/docs/linux/linux常用命令.md)
+- [linux查看端口进程](https://cloud.tencent.com/developer/article/1721588)
 - [ubuntu 20.04 安装webhook](/docs/linux/ubuntu20.04安装webhook.md)
 
 #### jenkins系列
