@@ -21,8 +21,11 @@
 
 - [linux常用命令](/docs/linux/linux常用命令.md)
 - [linux查看端口进程](https://cloud.tencent.com/developer/article/1721588)
-- [linux让命令后台运行](https://zhuanlan.zhihu.com/p/389045898)  
+- [linux让命令后台运行](https://zhuanlan.zhihu.com/p/389045898)
+#### linux周边 
 - [ubuntu 20.04 安装webhook](/docs/linux/ubuntu20.04安装webhook.md)
+- [Linux - VNC的安装、配置与使用](docs/linux/Linux-VNC的安装、配置与使用.md)
+
 
 #### jenkins系列
 
