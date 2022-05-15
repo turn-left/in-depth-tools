@@ -18,7 +18,7 @@
 - [maven：中央仓库与企业私服](/docs/maven/)
 
 #### linux系列
-- [linux系统管理员指南(redhat)](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/7/html-single/system_administrators_guide/index)
+- [linux系统管理员指南(redhat)](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/7/html/system_administrators_guide/index)
 - [linux常用命令](/docs/linux/linux常用命令.md)
 - [linux查看端口进程](https://cloud.tencent.com/developer/article/1721588)
 - [linux让命令后台运行](https://zhuanlan.zhihu.com/p/389045898)
